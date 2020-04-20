@@ -1,0 +1,4 @@
+currentRepo,forkedRepo,localDir
+git@github.com:AaronZhangL/elasticsearch_loader.git,https://github.com/moshe/elasticsearch_loader.git,elasticsearch_loader
+git@github.com:AaronZhangL/REST_API_Flask.git,https://github.com/MaBlaGit/REST_API_Flask.git,REST_API_Flask
+git@github.com:AaronZhangL/GPT2-chitchat.git,https://github.com/yangjianxin1/GPT2-chitchat.git,GPT2-chitchat
